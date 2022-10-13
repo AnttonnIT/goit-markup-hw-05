@@ -518,14 +518,13 @@ button.btn.first {
 }
 .item-tittle {
   font-size: 18px;
-  font-weight: 700;
   line-height: 2;
-  color: #212121;
   letter-spacing: 0.06em;
   margin-bottom: 4px;
 }
 .our-projects-item-text {
   line-height: 1.875;
+  color: #757575;
 }
 .our-projects-img {
   position: relative;
