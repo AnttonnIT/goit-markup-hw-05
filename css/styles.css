@@ -454,9 +454,7 @@ footer {
     background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-button.btn.first {
-  margin-left: 0;
-}
+
 .btn:hover,
 .btn:focus {
   background-color: #2196f3;
