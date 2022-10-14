@@ -35,6 +35,10 @@ a {
   padding: 0 15px;
   width: 1200px;
 }
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* ========== TITTLES ========== */
 .tittle {
   font-weight: 700;
@@ -249,9 +253,6 @@ header {
   gap: 30px;
 }
 
-.about .conteiner {
-  padding-top: 0;
-}
 .about {
   padding-top: 0;
 }
@@ -427,10 +428,7 @@ footer {
 .logo-footer {
   color: #ffffff;
 }
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
+
 .logo span,
 .logo-footer span {
   color: #2196f3;
